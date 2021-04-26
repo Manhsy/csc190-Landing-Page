@@ -5,26 +5,20 @@
 body {
   padding: 0;
   margin: 0;
-  background: #f2f2f2;
+  background: #CCD1CB;
 }
 .content-box {
   position: relative;
   width: 500px;
 }
 
-.content-box .content-title h2 {
-  font-size: 28px;
-  margin-bottom: 15px;
-  margin-top: 50px;
-  background: yellow;
-  padding: 0.5em;
-  width: 100%;
-}
 .content-title h2 {
+  font-family: Arial;
   font-size: 28px;
   margin-bottom: 15px;
   margin-top: 50px;
-  background: #578ed6;
+  background: #142A4F;
+  color: #FFBF00;
   padding: 0.5em;
   width: 50%;
 }
