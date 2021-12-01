@@ -56,6 +56,37 @@
   left: -2250px;
 }
 
+/*SLIDER FOR PUBLISHED APP IMAGES */
+#slider-image-10:target ~ .image-holder {
+  left: 0px;
+}
+
+#slider-image-12:target ~ .image-holder {
+  left: -375px;
+}
+
+#slider-image-13:target ~ .image-holder {
+  left: -750px;
+}
+#slider-image-14:target ~ .image-holder {
+  left: -1125px;
+}
+#slider-image-15:target ~ .image-holder {
+  left: -1500px;
+}
+#slider-image-16:target ~ .image-holder {
+  left: -1875px;
+}
+#slider-image-17:target ~ .image-holder {
+  left: -2250px;
+}
+#slider-image-18:target ~ .image-holder {
+  left: -2625px;
+}
+#slider-image-19:target ~ .image-holder {
+  left: -3000px;
+}
+
 .button-holder {
   position: relative;
   top: -60px;
